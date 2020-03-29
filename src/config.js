@@ -1,8 +1,8 @@
-export const mongodbUrl = 'mongodb://localhost:27017/zhihu'
+export const mongodbUrl = 'mongodb://39.106.209.230:27017/zhihu'
 
-export const pwd = '123456'
+export const pwd = 'xpc@123'
 
-export const user = 'admin'
+export const account = 'root'
 
 export const authSource = 'admin'
 
